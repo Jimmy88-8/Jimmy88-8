@@ -13,13 +13,7 @@ I'm a Developer located in Malaysia
 - GitHub: https://github.com/Jimmy88-8
 
 ☕ If you like my work, you can support me with a coffee 😃
-
-<a href="https://www.paypal.com/ncp/payment/MXET8UFHEAJW6">
-  <img
-    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal"
-    alt="Donate with PayPal"
-  />
-</a>
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](https://www.paypal.com/ncp/payment/SJKECQTZ599A4)
 
 ---
 
