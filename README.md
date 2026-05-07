@@ -32,11 +32,3 @@ I'm a Developer located in Malaysia
 
 ---
 
-## Featured Projects
-
-<a href="https://github.com/Jimmy88-8/windows-setup">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Jimmy88-8&repo=windows-setup&theme=tokyonight"
-  />
-</a>
