@@ -13,8 +13,6 @@ I'm a Developer located in Malaysia
 - GitHub: https://github.com/Jimmy88-8
 
 ☕ If you like my work, you can support me with a coffee 😃
-
-[☕ Donate via PayPal](https://www.paypal.com/ncp/payment/MXET8UFHEAJW6)
 [![Support](https://img.shields.io/badge/Support-PayPal-0070ba?style=flat-square&logo=paypal)](https://www.paypal.com/ncp/payment/MXET8UFHEAJW6)
 ---
 
