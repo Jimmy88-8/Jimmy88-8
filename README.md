@@ -22,6 +22,6 @@ Projects I've participated in:
 
 | Project | Status | Badges |
 |---|---|---|
-| windows-setup | Author & Maintainer | ![NPM](https://img.shields.io/npm/v/npm.svg?style=flat-square) |
-| JnJ_Electronic | Maintainer | ![NPM](https://img.shields.io/npm/v/npm.svg?style=flat-square) |
-| JnJ_Inventory | Creator | ![NPM](https://img.shields.io/npm/v/npm.svg?style=flat-square) |
+| windows-setup | Author & Maintainer | ![Status](https://img.shields.io/badge/status-early--development-orange.svg?style=flat-square) |
+| JnJ_Electronic | Maintainer | ![Status](https://img.shields.io/badge/status-early--development-orange.svg?style=flat-square) |
+| JnJ_Inventory | Creator | ![Status](https://img.shields.io/badge/status-early--development-orange.svg?style=flat-square) |
