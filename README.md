@@ -16,8 +16,8 @@ I'm a Developer located in Malaysia
 
 <a href="https://www.paypal.com/ncp/payment/MXET8UFHEAJW6">
   <img
-    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square"
-    alt="Donate: PayPal"
+    src="https://img.shields.io/badge/Donate-PayPal-ff69b4.svg?style=flat-square"
+    alt="Donate with PayPal"
   />
 </a>
 
