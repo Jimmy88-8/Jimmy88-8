@@ -32,36 +32,16 @@ I'm a Developer located in Malaysia
 
 ---
 
-<a href="https://github-readme-stats.vercel.app/api?username=Jimmy88-8&show_icons=true&include_all_commits=true&theme=tokyonight">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Jimmy88-8&show_icons=true&include_all_commits=true&theme=tokyonight"
-  />
+## Featured Projects
+
+<a href="https://github.com/Jimmy88-8/windows-setup">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jimmy88-8&repo=windows-setup&theme=tokyonight"/>
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy88-8&layout=compact&theme=tokyonight">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy88-8&layout=compact&theme=tokyonight"
-  />
+<a href="https://github.com/Jimmy88-8/JnJ_Electronic">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jimmy88-8&repo=JnJ_Electronic&theme=tokyonight"/>
 </a>
 
----
-
-<a href="https://github.com/Jimmy88-8/your-project">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Jimmy88-8&repo=your-project&theme=tokyonight"
-  />
-</a>
-
-<a href="https://github.com/Jimmy88-8/another-project">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Jimmy88-8&repo=another-project&theme=tokyonight"
-  />
-</a>
-
-<a href="https://github.com/Jimmy88-8/project-three">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Jimmy88-8&repo=project-three&theme=tokyonight"
-  />
+<a href="https://github.com/Jimmy88-8/JnJ_Inventory">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jimmy88-8&repo=JnJ_Inventory&theme=tokyonight"/>
 </a>
