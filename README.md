@@ -14,7 +14,12 @@ I'm a Developer located in Malaysia
 
 ☕ If you like my work, you can support me with a coffee 😃
 
-[![Support](https://img.shields.io/badge/Support-PayPal-0070ba?style=flat-square&logo=paypal)](https://www.paypal.com/ncp/payment/MXET8UFHEAJW6)
+<a href="https://www.paypal.com/ncp/payment/MXET8UFHEAJW6">
+  <img
+    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square"
+    alt="Donate: PayPal"
+  />
+</a>
 
 ---
 
