@@ -1,34 +1,33 @@
 # Hi there 👋, I'm Jimmy
 
-I'm a Developer located in Malaysia
+I'm a Full Stack Developer focused on developer tools, automation and open source.
 
 🔭 I'm mainly working on following projects as an Open Source Developer
 
-- Your Project Name as Author
-- Your Tool Name as Maintainer
-- Your AI Project as Creator
+- windows-setup as Author
 
-⚡ I'm currently focusing on TypeScript / Vue / React / AI Tools
+⚡ I'm currently focusing on
+
+- PowerShell
+- TypeScript
+- Automation
+- Developer Tools
 
 🔍 I'm building tools and applications for developers
 
 📫 How to reach me
 
 - GitHub: https://github.com/Jimmy88-8
-- Email: your-email@example.com
-- Twitter/X: @yourname
 
-☕ If you like my work, you can support me with a coffee 😃
+☕ If you like my work, consider giving a ⭐ to the projects you enjoy 😃
 
 ---
 
 ## Projects I've participated in:
 
-| Project | Status | Badges |
+| Project | Status | Description |
 |---|---|---|
-| your-project | Author & Maintainer | ![NPM](https://img.shields.io/npm/v/npm.svg?style=flat-square) |
-| cool-tool | Maintainer | ![NPM](https://img.shields.io/npm/v/npm.svg?style=flat-square) |
-| ai-toolkit | Creator | ![NPM](https://img.shields.io/npm/v/npm.svg?style=flat-square) |
+| windows-setup | Author | Personal Windows setup scripts and quick install commands |
 
 ---
 
@@ -48,20 +47,22 @@ I'm a Developer located in Malaysia
 
 ---
 
-<a href="https://github.com/Jimmy88-8/your-project">
+## Featured Project
+
+<a href="https://github.com/Jimmy88-8/windows-setup">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Jimmy88-8&repo=your-project&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Jimmy88-8&repo=windows-setup&theme=tokyonight"
   />
 </a>
 
-<a href="https://github.com/Jimmy88-8/another-project">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Jimmy88-8&repo=another-project&theme=tokyonight"
-  />
-</a>
+---
 
-<a href="https://github.com/Jimmy88-8/project-three">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Jimmy88-8&repo=project-three&theme=tokyonight"
-  />
-</a>
+## ⚡ Philosophy
+
+```ts
+while(alive) {
+  learn();
+  build();
+  share();
+}
+```
